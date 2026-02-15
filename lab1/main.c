@@ -2,6 +2,7 @@
 #include <math.h>
 
 int main() {
+        // Объявление переменных
 	double l;
 	double area;
 	// Подсказка удалена
