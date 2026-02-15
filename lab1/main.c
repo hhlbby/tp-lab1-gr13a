@@ -4,6 +4,7 @@
 int main() {
 	double l;
 	double area;
+	// Подсказка
 	printf("Введите длину окружности: ");
 	if (scanf("%lf", &l) != 1) {
 		printf("Ошибка: необходимо ввести число.\n");
